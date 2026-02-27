@@ -11,7 +11,7 @@ print(booleano)
 
 print(texto,numero,operandoNumeros,booleano)
 
-# CONSTANTES: Se escriben en mayuscula
+# CONSTANTES: Se escriben en mayúscula
 PI=3.1416
 print(PI)
 

@@ -4,6 +4,7 @@ decimal = float(input("Intruduce un numero con decimales:"))
 print(cadena)
 print(numero)
 print(decimal)
+# Muestra el tipo de dato de cada variable
 print(type(cadena))
 print(type(numero))
 print(type(decimal))
