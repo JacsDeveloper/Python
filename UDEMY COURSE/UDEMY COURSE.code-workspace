@@ -5,6 +5,7 @@
     },
   ],
   "settings": {
-    "editor.fontFamily": "\"Hasklug Nerd Font\", monospace",
+    "editor.fontFamily": "\"D2CodingLigature Nerd Font\", monospace",
+    "editor.fontSize": 14,
   },
 }

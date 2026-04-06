@@ -23,7 +23,7 @@ def par(numero):
         return False
     
 numero = int(input("Introduce un número:"))
-if par(numero) == True:
+if par(numero) == True:  
     print(f"{numero} es un número par.")
 else:
     print(f"{numero} es un número impar.")
